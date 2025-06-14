@@ -6,7 +6,7 @@ DB_CONFIG = {
     "host": "localhost",
     "database": "breath",
     "user": "root",  # or your MySQL username
-    "password": "root",
+    "password": "",
     "port": 3306
 }
 
