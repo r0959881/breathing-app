@@ -10,7 +10,7 @@ DB_CONFIG = {
     "host": "localhost",
     "database": "breath",
     "user": "root",
-    "password": "root",
+    "password": "",
     "port": 3306
 }
 
